@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "room1",
+    "seats": "200",
+    "amenities": ["Speaker", "Stage", "Wifi"],
+    "price": "100/hr"
+  },
+  {
+    "id": 2,
+    "name": "room2",
+    "seats": "100",
+    "amenities": ["AC", "Wifi", "RestRoom"],
+    "price": "150/hr"
+  },
+  {
+    "id": 3,
+    "name": "room3",
+    "seats": "50",
+    "amenities": ["Projector", "AC", "Wifi"],
+    "price": "500/hr"
+  },
+  {
+    "id": 4,
+    "name": "room4",
+    "seats": "150",
+    "amenities": ["AC", "Projector", "Speaker"],
+    "price": "100/hr"
+  }
+]
